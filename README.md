@@ -19,3 +19,9 @@ Change to python 3.9.0 version
 4. Type in your keyword to get back results
 
 Visit this youtube link to watch a short presentation on the project https://www.youtube.com/watch?v=cu1IVtf96NQ
+
+Project Group Names:
+Shonn Chua
+Triston Chan
+Jack Ong
+Joey Lim
