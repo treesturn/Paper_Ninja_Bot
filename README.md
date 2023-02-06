@@ -11,10 +11,11 @@ Required python packages
 -pip install requests
 -pip install beautifulsoup4
 
-1. Run Telegram_Bot.py
-2. Find our chatbot, Paper Ninja Bot, on Telegram
-3. Type /search. The bot will prompt you to search for a keyword
-4. Type in your keyword to get back results
+1. Generate an API key using Bot father and include it into Telegram_Bot.py
+2. Run Telegram_Bot.py
+3. Find our chatbot, Paper Ninja Bot, on Telegram
+4. Type /search. The bot will prompt you to search for a keyword
+5. Type in your keyword to get back results
 
 Visit this youtube link to watch a short presentation on the project https://www.youtube.com/watch?v=cu1IVtf96NQ
 
