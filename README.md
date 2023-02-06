@@ -11,7 +11,7 @@ Required python packages
 -pip install requests
 -pip install beautifulsoup4
 
-Change python 3.9.0 version
+Change to python 3.9.0 version
 
 1. Run Telegram_Bot.py
 2. Find our chatbot, Paper Ninja Bot, on Telegram
