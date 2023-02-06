@@ -11,8 +11,6 @@ Required python packages
 -pip install requests
 -pip install beautifulsoup4
 
-Change python version to 3.9.0
-
 1. Run Telegram_Bot.py
 2. Find our chatbot, Paper Ninja Bot, on Telegram
 3. Type /search. The bot will prompt you to search for a keyword
