@@ -1,4 +1,4 @@
-AI project for National Learn AI challenge. It is a telegram bot using SGNLP package to assists with users who are conducting secondary research. The bot uses aspect-based sentiment analysis to classify the 5 links retrieved, positive or negative sentiment regarding a keyword input by the user.
+AI project for National Learn AI challenge. It is a telegram bot using SGNLP python package to assists with users who are conducting secondary research. The bot uses aspect-based sentiment analysis to classify the 5 links retrieved, positive or negative sentiment regarding a keyword input by the user.
 
 Required python packages
 - googlesearch
@@ -20,7 +20,7 @@ Required python packages
 Visit this youtube link to watch a short presentation on the project https://www.youtube.com/watch?v=cu1IVtf96NQ
 
 Project Group Names:
-Shonn Chua
-Triston Chan
-Jack Ong
+Shonn Chua,
+Triston Chan,
+Jack Ong,
 Joey Lim
